@@ -159,7 +159,7 @@ cat('Train loss:', scores[[1]], '\n')
 cat('Train accuracy:', scores[[2]], '\n')
 
 
-Wir haben eine In-Sample-Prediciton genommen, damit keine weiteren Bilddaten erhoben werden müssen
+## Wir haben eine In-Sample-Prediciton genommen, damit keine weiteren Bilddaten erhoben werden müssen
 
 
 #In-Sample-predict
@@ -215,7 +215,7 @@ print(paste0("Accuracy: ", round(accuracy * 100, 2), "%"))
 
 
 
-Vergleich:
+## Vergleich:
 
 
 #Vergleich ziehen:
